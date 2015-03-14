@@ -6,7 +6,7 @@
     <TextView 
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:text="선택!!"
+        android:text="선택!!!"
         android:gravity="center"
         android:background="#FFBB00"/>
     
